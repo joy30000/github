@@ -1,0 +1,21 @@
+.row {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  row-gap: 1rem;
+}
+.card {
+  border-radius: 10px;
+}
+img {
+  height: 38vh;
+}
+p {
+  border-radius: 8px;
+  padding: 7px;
+  height: 6vh;
+  width: fit-content;
+  margin-top: -7vh;
+  margin-left: -6px;
+  background-color: white;
+  font-weight: 700;
+}
